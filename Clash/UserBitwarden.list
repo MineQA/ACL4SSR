@@ -1,3 +1,4 @@
 #用户自建Bitwarden服务
-DOMAIN-SUFFIX,pass.onesnow.top
-DOMAIN-SUFFIX,origin0.030888.xyz
+DOMAIN-SUFFIX,bit.onesnow.top
+DOMAIN-SUFFIX,origin.030888.xyz
+DOMAIN-SUFFIX,bitorigin.030888.xyz
